@@ -14,7 +14,7 @@
 - 📫 How to reach me: --@--
 - ♟️ I like to play chess in my spare time.
 
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<!--<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
 @@beginner programming student.@@
@@ -23,9 +23,7 @@
 - Giving up is not an option!
 ! Focused on web development, at first on the front-end!
 # 📖 computer science, front-end, mobile and bussiness!
-```
---
-
+``` -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,9 +37,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
   
-<p>
-<a href="#"><img alt="Victor Hugo Github stats" src="https://github-readme-stats.vercel.app/api?username=victorhugosr&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=00FFD1&icon_color=F8D866" height="192px" width="450px"/></a>
-<a href="#"><img alt="Victor Hugo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugosr&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=00FFD1&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" width="400px"/></a>
+<p align="center">
+<a href="#" align="center"><img alt="Victor Hugo Github stats" src="https://github-readme-stats.vercel.app/api?username=victorhugosr&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=00FFD1&icon_color=F8D866" height="192px"/></a>
+<a href="#" align="center"><img alt="Victor Hugo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugosr&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=00FFD1&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
