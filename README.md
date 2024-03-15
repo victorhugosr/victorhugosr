@@ -11,7 +11,7 @@
 - 🎓 I am a student.
 - 🌱 I’m currently learning Web development.
 - 💬 Any questions ask me.
-- 📫 How to reach me: --@--
+- 📫 Follow me on Instagram: @ovhdev
 - ♟️ I like to play chess in my spare time.
 
 <!--<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
@@ -51,4 +51,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated color line">
 
 Credit: [victorhugosr](https://github.com/victorhugosr)  
-Last edited on: ``` 09/08/2023 ```
+Last edited on: ``` 15/03/2024 ```
