@@ -5,9 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=700&color=00FFC1&center=true&vCenter=true&width=650&lines=%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91+%E2%96%BA%E2%96%AC+WELCOME+%E2%96%AC%E2%97%84+%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%88;Computer+Science+Student%2C+;Learning+and+researching+continuously%2C;Focused+on+the+Front+End+for+now%2C;I+love+doing+visual+projects!+%5BNatural+artistic+talent%5D%2C;I+like+to+play+chess+and+talk+about+business+" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/victorhugosr/victorhugosr/assets/125200045/b5fa2e93-0739-41b4-bfda-8bcbd48c298f" width = 25px></picture> **About me**
-<picture> <img align="right" src="https://github.com/victorhugosr/victorhugosr/assets/125200045/bf42034d-4b5a-4446-a0d3-75252aec45b6" width = 300px></picture>
-
 - 🎓 I am a student.
 - 🌱 I’m currently learning Web development.
 - 💬 Any questions ask me.
